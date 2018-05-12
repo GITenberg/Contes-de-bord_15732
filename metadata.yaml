@@ -1,0 +1,33 @@
+_repo: Contes-de-bord_15732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corbière, Edouard
+    aliases:
+    - Corbière, Édouard
+    - Corbiere, Edouard
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '6234'
+    url: http://www.gutenberg.org/2009/agents/6234
+    wikipedia: http://fr.wikipedia.org/wiki/Edouard_Corbière
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2005-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15732'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PQ'
+title: Contes de bord
+url: http://www.gutenberg.org/ebooks/15732
